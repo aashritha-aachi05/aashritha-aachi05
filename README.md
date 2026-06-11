@@ -1,4 +1,4 @@
-# Hi, I'm Aashritha 👋
+# Hi, I'm Aashritha!
 
 Junior at Rutgers studying CS & Data Science. I build backend systems, data pipelines, and AI tools.
 
